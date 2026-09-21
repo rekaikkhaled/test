@@ -1,3 +1,2 @@
-﻿# notepad et block notes are the same 
+# notepad et block notes are the same 
 #c'est juste la langue 
-:tada:
